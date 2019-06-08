@@ -4,6 +4,10 @@
 
 This is the code for [this](https://youtu.be/OE6wssMJoag) video on Youtube by Siraj Raval on building an AI Startup with PyTorch. [This](https://github.com/flatfisher/android-dialogflow-chatbot-sample) is the original Dialogflow + Android integration project. [This](https://colab.research.google.com/drive/1b6oSQl84XdRv_abjhg1vpTpiZyZw2TPF) is the colab that I demonstrated in the video where I train the PyTorch model on movie reviews, then convert it to ONNX, then to Tensorflow's expected protobuf format. 
 
+This is a link to the team [this] (https://www.upwork.com/jobs/~0183dcdc9180def1da) I am looking for someone to work on this project. 
+This is a link for using Github for the project. [this] (https://www.youtube.com/watch?v=rWDUhLfNkBM) 
+This is a link to the Trello for News about project. https://trello.com/b/lu5iKCcx/therapist 
+This is a link to figma UX or UI interface design https://www.figma.com/file/IlcSpfWoeZWywA3jp9Kgek4k/therapist?node-id=0%3A1
 
 ## #AISTARTUPCHALLENGE
 
