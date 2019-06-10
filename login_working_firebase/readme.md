@@ -1,5 +1,8 @@
 additional files
 
+this code is working ok but not getting email for verification.
+
+
 Login-Signup-using-Firebase-master.zip  for additional information on firebase login
 
 
