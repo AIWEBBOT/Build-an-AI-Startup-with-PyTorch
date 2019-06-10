@@ -12,8 +12,6 @@ Login-Signup-using-Firebase-master.zip  for additional information on firebase l
 
 
 
-I noticed that the new Firebase email authentication docs is not properly documented.
-
 ```firebase.auth().onAuthStateChanged(function(user) {
   user.sendEmailVerification(); 
 });
