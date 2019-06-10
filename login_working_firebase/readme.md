@@ -1,6 +1,10 @@
 additional files
 
 this code is working ok but not getting email for verification.
+https://stackoverflow.com/questions/37431128/firebase-confirmation-email-not-being-sent
+
+
+
 
 
 Login-Signup-using-Firebase-master.zip  for additional information on firebase login
